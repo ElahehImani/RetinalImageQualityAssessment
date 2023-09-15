@@ -1,4 +1,4 @@
-# RetinalImageQualityAssessment
+# Retinal Image Quality Assessment Using Shearlet Transform
 This repository contains the source code of the following paper:
 
 Imani, E., Pourreza, H. R., & Banaee, T. (2015). Retinal image quality assessment using shearlet transform. 
